@@ -1,8 +1,3 @@
-# MYBOTSHOP | QUADRUPED
-
-‎ 
-‎ 
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="assets/mbs_logo.png" alt="MYBOTSHOP" width="220"/>
   <img src="assets/qre_logo.png" alt="Second Image"/>
