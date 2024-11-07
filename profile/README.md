@@ -6,10 +6,10 @@
 
 ‎ 
 
-- [Documentation](https://www.docs.mybotshop.de/)
 - [Forums](https://forum.mybotshop.de/)
 - [Linkedin](https://www.linkedin.com/company/mybotshop/posts/?feedView=all)
 - [Youtube](https://www.youtube.com/@mybotshop)
+- [Documentation](https://www.docs.mybotshop.de/)
 
 ‎ 
 
@@ -18,11 +18,14 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="assets/qre_logo.png" alt="Second Image"/>
 </div>
+
 ‎ 
 
-- [Documentation](https://www.docs.quadruped.de/)
 - [Forums](https://forum.mybotshop.de/)
 - [Linkedin](https://www.linkedin.com/company/quadruped-robotics/posts/?feedView=all)
+- [Documentation](https://www.docs.quadruped.de/)
+
+‎ 
 
 ## Copyright 
 
