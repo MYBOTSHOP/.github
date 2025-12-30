@@ -1,7 +1,7 @@
 # [MYBOTSHOP GmbH](https://www.mybotshop.de/)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="assets/svg" alt="MYBOTSHOP" width="220"/>
+  <img src="assets/mbs_logo.svg" alt="MYBOTSHOP" width="220"/>
 </div>
 
 ‎ 
