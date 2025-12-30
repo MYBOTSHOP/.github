@@ -1,10 +1,23 @@
-# MYBOTSHOP GmbH
-
 <div align="center">
-  <img src="assets/mbs_logo.svg" alt="MYBOTSHOP GmbH Logo" width="600"/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="assets/mbs_logo.svg" alt="MYBOTSHOP GmbH Logo" width="50%"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="assets/qre_logo_.png" alt="Quadruped Robotics uG Logo" width="50%"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>MYBOTSHOP GmbH</strong></td>
+      <td align="center"><strong>Quadruped Robotics uG</strong></td>
+    </tr>
+  </table>
 </div>
 
-<br>
+---
+
+## MYBOTSHOP GmbH
 
 **Website:** https://www.mybotshop.de  
 **Headquarters:** Bergheim (near Cologne), North Rhine-Westphalia, Germany  
@@ -13,23 +26,14 @@
 
 ### Overview
 
-MYBOTSHOP GmbH is a German robotics technology company specializing in the distribution, integration, and support of robotic systems and components. The company serves industrial customers, research institutions, universities, and developers by providing high-quality hardware, engineering expertise, and technical resources.
-
-MYBOTSHOP combines a broad robotics product portfolio with consulting and system integration services, supporting customers from component selection to deployment and long-term operation.
+MYBOTSHOP GmbH is a German robotics technology company specializing in the distribution, integration, and support of robotic systems and components. The company serves industrial customers, research institutions, universities, and developers with high-quality hardware, engineering expertise, and technical resources.
 
 ### Core Capabilities
 
 - Robotics components and platforms (actuators, sensors, controllers, development kits)
 - Robotics system integration and technical consulting
-- ROS-based development support and documentation
-- Community knowledge sharing via forums and tutorials
-
-### Key Facts & Highlights
-
-- Established in 2017 in Germany  
-- Active across industrial automation, research, and education sectors  
-- Maintains open documentation and technical forums for robotics developers  
-- Supports ROS, SLAM, navigation, and autonomy workflows  
+- ROS-based development support
+- Community forums and technical documentation
 
 ### Resources
 
@@ -40,35 +44,29 @@ MYBOTSHOP combines a broad robotics product portfolio with consulting and system
 
 ---
 
-# Quadruped Robotics uG
-
-<div align="center">
-  <img src="assets/qre_logo_.png" alt="Quadruped Robotics uG Logo" width="600"/>
-</div>
-
-<br>
+## Quadruped Robotics uG
 
 **Website:** https://www.quadruped.de  
 **Industry:** Legged Robotics, Autonomous Systems  
-**Origin:** Spin-off / specialized entity associated with MYBOTSHOP GmbH  
+**Origin:** Specialized entity associated with MYBOTSHOP GmbH  
 
 ### Overview
 
-Quadruped Robotics uG focuses on the development and integration of four-legged robotic platforms for research, industrial testing, and advanced autonomy applications. The company emphasizes modular, ROS-compatible systems designed for experimentation in perception, navigation, and locomotion.
+Quadruped Robotics uG focuses on quadruped robotic platforms designed for research, industrial testing, and autonomous system development. The company emphasizes modular, ROS-compatible systems suitable for advanced locomotion, perception, and navigation research.
 
-### Technology Focus
+### Technology Highlights
 
-- Quadruped robotic platforms with 12-DOF locomotion
+- Quadruped robots with 12-DOF locomotion
 - ROS and ROS 2 compatibility
-- Support for SLAM, mapping, perception, and navigation
-- Modular payload and sensor integration
+- Support for SLAM, mapping, and autonomous navigation
+- Modular sensor and payload integration
 
-### Platform Highlights (Representative Systems)
+### Representative Platform Metrics
 
-- **Locomotion:** Up to 3.3 m/s (≈ 11.9 km/h), model-dependent  
-- **Payload Capacity:** Up to ~5 kg, configuration-dependent  
-- **Runtime:** Up to ~2.5 hours, depending on workload and battery  
-- **Software Stack:** Ubuntu + ROS ecosystem  
+- **Speed:** Up to ~3.3 m/s (model-dependent)
+- **Payload:** Up to ~5 kg
+- **Runtime:** Up to ~2.5 hours (configuration-dependent)
+- **Software Stack:** Ubuntu + ROS ecosystem
 
 ### Resources
 
