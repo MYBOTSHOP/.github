@@ -15,6 +15,60 @@
   </table>
 </div>
 
+<div align="center">
+  <h3>Project Showcase</h3>
+  <table>
+    <tr>
+      <td><img src="assets/gifs/husky_viz.gif" width="150"/></td>
+      <td><img src="assets/gifs/go2_slam.gif" width="150"/></td>
+      <td><img src="assets/gifs/xarm6_overview.gif" width="150"/></td>
+      <td><img src="assets/gifs/diablo_viz.gif" width="150"/></td>
+      <td><img src="assets/gifs/a1_teleop.gif" width="150"/></td>
+      <td><img src="assets/gifs/rrt_fast.gif" width="150"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/gifs/Go2_Dance.gif" width="150"/></td>
+      <td><img src="assets/gifs/husky_nav_full.gif" width="150"/></td>
+      <td><img src="assets/gifs/husky_missi.gif" width="150"/></td>
+      <td><img src="assets/gifs/jackal1.gif" width="150"/></td>
+      <td><img src="assets/gifs/a1_point_cloud.gif" width="150"/></td>
+      <td><img src="assets/gifs/33_xarm5.gif" width="150"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/gifs/turtlebot1.gif" width="150"/></td>
+      <td><img src="assets/gifs/husky_slam.gif" width="150"/></td>
+      <td><img src="assets/gifs/xarm.gif" width="150"/></td>
+      <td><img src="assets/gifs/diablo_capabilities.gif" width="150"/></td>
+      <td><img src="assets/gifs/autonomous_gps_navigation.gif" width="150"/></td>
+      <td><img src="assets/gifs/rovo_gazebo.gif" width="150"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/gifs/jackal3.gif" width="150"/></td>
+      <td><img src="assets/gifs/a1_autonomous_navigation.gif" width="150"/></td>
+      <td><img src="assets/gifs/30_moveit.gif" width="150"/></td>
+      <td><img src="assets/gifs/fp_husky.gif" width="150"/></td>
+      <td><img src="assets/gifs/tbviz1.gif" width="150"/></td>
+      <td><img src="assets/gifs/husky_ure5e.gif" width="150"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/gifs/turtlebot2.gif" width="150"/></td>
+      <td><img src="assets/gifs/xarm_robotiq.gif" width="150"/></td>
+      <td><img src="assets/gifs/husky_vineyard.gif" width="150"/></td>
+      <td><img src="assets/gifs/ros2_actions.gif" width="150"/></td>
+      <td><img src="assets/gifs/jackal2.gif" width="150"/></td>
+      <td><img src="assets/gifs/a1_launch.gif" width="150"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/gifs/steamdeck_hsky_viz.gif" width="150"/></td>
+      <td><img src="assets/gifs/33_xarm5_sim_2.gif" width="150"/></td>
+      <td><img src="assets/gifs/husky_waypoint_rviz.gif" width="150"/></td>
+      <td><img src="assets/gifs/31_mbs_gripper.gif" width="150"/></td>
+      <td><img src="assets/gifs/tj_lab_fast.gif" width="150"/></td>
+      <td><img src="assets/gifs/ros2_services.gif" width="150"/></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## MYBOTSHOP GmbH
