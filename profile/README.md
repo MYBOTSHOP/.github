@@ -16,7 +16,6 @@
 </div>
 
 <div align="center">
-  <h3>Project Showcase</h3>
   <table>
     <tr>
       <td><img src="assets/gifs/husky_viz.gif" width="150"/></td>
