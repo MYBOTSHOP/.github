@@ -16,7 +16,7 @@
 # [Quadruped uG](https://www.quadruped.de/)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="assets/qre_logo.png" alt="Second Image"/>
+  <img src="assets/qre_logo_.png" alt="Second Image"/>
 </div>
 
 ‎ 
